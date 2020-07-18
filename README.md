@@ -1,3 +1,3 @@
 # Siddhant Sharma
-*** 
-_Freshman at UC Berkeley_
+East Bay, CA
+_Probably doing cool things :sunglasses: _

@@ -1,11 +1,7 @@
-# Siddhant Sharma
-Hi! I'm Siddhant Sharma, but I just go by Sid. I'm from the East Bay and am currently studying electrical engineering and computer science at UC Berkeley.  
-> _Probably doing cool things 😎_  
+## Hi! I'm Sid Sharma
+Berkeley, CA  
 
-## Projects
-* _Galen: A New Way to Diagnose Medical Images_  
-
-* _Project S.O.D.A_  
-
-
-## Interests
+Currently, I'm
+- An undergrad studying EECS at Berkeley
+- President of [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
+- Student researcher at [Sky Lab](https://sky.cs.berkeley.edu/) focusing on consensus algorithms
